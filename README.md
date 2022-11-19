@@ -119,5 +119,5 @@ THEN I should have proper build scripts for a webpack application
 - Date Submitted: December 7, 2022
 - You are required to submit BOTH of the following for review:
 
-1. The URL of the functional, deployed application:
+1. The URL of the functional, deployed application: https://brians-text-editor.herokuapp.com/
 2. The URL of the GitHub repository. Give the repository a unique name and include a README describing the project: https://github.com/bslockhart/Brians-Text-Editor
