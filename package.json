@@ -2,8 +2,8 @@
   "name": "text-editor",
   "version": "1.0.0",
   "engines:": {
-    "node": "16.17.0",
-    "npm": "8.15.0"
+    "node": "18.12.1",
+    "npm": "8.19.2"
   },
   "description": "brians text editor",
   "main": "server.js",
